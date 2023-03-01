@@ -27,6 +27,6 @@
     "@types/react-native": "^0.62.2"
   },
   "dependencies": {
-    "react-native-reanimated": "2.14.4"
+    "react-native-reanimated": "2.1.0"
   }
 }
